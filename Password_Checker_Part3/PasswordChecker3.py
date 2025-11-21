@@ -55,8 +55,8 @@ def main():
             count_pw_too_large.append(data)
 
 # print all data in list
-    for name in list_data:
-        print(name)
+    for line in list_data:
+        print(line)
 
 # printing the amount of strings that are then sorted into the  pw too short and pw too long showing the amount of passwords that were too long and too short
     print("Number of passwords too short:{}\n \nNumber of passwords too long:{}".format(len(count_pw_too_short), len(count_pw_too_large)))
