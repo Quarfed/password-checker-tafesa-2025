@@ -18,6 +18,8 @@ PasswordChecker3
 #           count_pw_too_short.APPEND data
 #       ELSE:
 #           count_pw_too_long.APPEND data
+#   FOR line in list_data
+#       PRINT line
 #   PRINT "Number of passwords too short: {} \n Number of passwords too long: {}".FORMAT LEN count pw too short, LEN count pw too long
 
 def main():
