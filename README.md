@@ -41,7 +41,8 @@
         - r: to read from an existing file
     - (filename).Write(what ever text you are wanting to write to the file)
     - (filename).close()- will close the file that you're writing too, why this needs
-        to happen is outside scope of what is required however just make sure its done! (you can google it if you'd like)
+        to happen is outside scope of what is required however just make sure its done! 
+        (you can google it if you'd like)
 
 ## Password checker 3
 ### Lists (arrays)
