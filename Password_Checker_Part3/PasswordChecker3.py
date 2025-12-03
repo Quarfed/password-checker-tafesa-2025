@@ -1,6 +1,6 @@
 """
 Michael Kosteriadis 001244342
-Date:
+Date: 3/12/2025
 PasswordChecker3
 """
 
